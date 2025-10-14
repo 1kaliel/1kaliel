@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student @42Vienna<br>🎨 Graphic Designer<br>🎬 Video Editor<br>🕹️ Aspiring Game Developer<br>🌍 Multilingual: 🇧🇷 Portuguese | 🇮🇹 Italian | 🇬🇧 English<br><br>Passionate about blending creativity with technology. Constantly learning and exploring new ways to design, edit, and develop immersive digital experiences.
+
 
 
 ## 🌐 Socials:

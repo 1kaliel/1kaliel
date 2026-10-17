@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-hypersonic.svg",
+  "backgroundColor": "#0b0918",
+  "foregroundColor": "#e9d5ff",
+  "strongColor": "#22d3ee",
+  "weakColor": "#6d5b9e",
+  "radarColor": "#a855f7",
+  "growingAnimation": true,
+  "contribColors": ["#1a1433", "#3b1d7a", "#6d28d9", "#a855f7", "#e9d5ff"]
+}

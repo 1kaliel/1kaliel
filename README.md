@@ -7,7 +7,7 @@
 <a href="https://discord.gg/1kaliel"><img src="https://img.shields.io/badge/DISCORD-1kaliel-2e1065?style=for-the-badge&logo=discord&logoColor=c4b5fd&labelColor=0b0918" alt="Discord" /></a>
 <a href="https://instagram.com/n1kali"><img src="https://img.shields.io/badge/INSTAGRAM-n1kali-2e1065?style=for-the-badge&logo=instagram&logoColor=c4b5fd&labelColor=0b0918" alt="Instagram" /></a>
 <a href="https://twitch.tv/n1kali"><img src="https://img.shields.io/badge/TWITCH-n1kali-2e1065?style=for-the-badge&logo=twitch&logoColor=c4b5fd&labelColor=0b0918" alt="Twitch" /></a>
-<img src="https://komarev.com/ghpvc/?username=1kaliel&label=VISITORS&color=2e1065&style=for-the-badge" alt="Profile views" />
+<img src="https://hits.sh/github.com/1kaliel.svg?style=for-the-badge&label=VISITORS&color=2e1065&labelColor=0b0918" alt="Profile views" />
 
 <br/>
 
